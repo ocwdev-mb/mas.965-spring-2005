@@ -1,0 +1,53 @@
+{
+  "term": "Spring",
+  "year": "2005",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Fine Arts",
+      "Media Studies",
+      "Digital Media"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Artificial Intelligence"
+    ],
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Robotics and Control Systems"
+    ]
+  ],
+  "legacy_uid": "25b63b55-9a42-351a-b5a7-a86dfcc4c5de",
+  "instructors": {
+    "content": [
+      "96288a93-00ec-dc38-7738-e2def96b0e9d"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "169eb340-b3f0-7123-2383-32e56a58ddc8",
+    "website": "mas-965-relational-machines-spring-2005"
+  },
+  "course_title": "Relational Machines",
+  "course_description": "This course examines the issues, principles, and challenges toward building relational machines through a combination of studio-style design and critique along with lecture, lively discussion of course readings, and assignments. Insights from social psychology, human-computer interaction, and design will be examined, as well as how these ideas are manifest in a broad range of applications for software agents and robots.\n",
+  "department_numbers": [
+    "MAS"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "MAS.965",
+  "course_image_thumbnail": {
+    "content": "1a29cf8f-c509-ced3-bab3-7398aa973969",
+    "website": "mas-965-relational-machines-spring-2005"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Projects with Examples"
+  ],
+  "site_uid": "05972116-5958-43d8-bc26-85eb69e4ab55",
+  "site_short_id": "mas.965-spring-2005",
+  "title": "Course Metadata"
+}
